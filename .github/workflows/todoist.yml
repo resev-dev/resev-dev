@@ -1,7 +1,7 @@
 name: Todoist Readme
 
 on:
-  workflow_dispatch:
+  # workflow_dispatch:
   schedule:
     # Runs every 5 minuts
     - cron: "*/5 * * * *"
