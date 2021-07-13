@@ -11,6 +11,8 @@ My name is Nikolay. I'm a self-taught full stack web developer.
 - Email: [kolyha5@yandex.ru](mailto:kolyha5@yandex.ru)
 - Instagram: [@reseviml](https://www.instagram.com/reseviml/)
 
+⚡ Fun fact: I'm a huge fan of Iron Man
+
 
 ## 🌱 Skills
 ### Programming languages
@@ -60,7 +62,15 @@ My name is Nikolay. I'm a self-taught full stack web developer.
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=resev-dev&count_private=true&show_icons=true&include_all_commits=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=resev-dev&hide=TeX&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api/pin/?username=resev-dev&repo=js-app-game-block)
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=redev-dev.resev-dev)
 
 <!--
