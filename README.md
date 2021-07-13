@@ -69,6 +69,11 @@ My name is Nikolay. I'm a self-taught full stack web developer.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Современное обучение веб-разработке](https://site2go.ru/article/sovremennoe-obuchenie-veb-razrabotke)
+- [Настройка длительности сессий в PHP](https://site2go.ru/article/nastrojka-dlitelnosti-sessij-v-php)
+- [Как отключить сжатие фотографий в приложении Вконтакте на Android](https://site2go.ru/article/kak-otklyuchit-szhatie-fotografij-v-prilozhenii-vkontakte-na-android)
+- [Польза приема кофе на работе](https://site2go.ru/article/polza-priema-kofe-na-rabote)
+- [Индикатор хода загрузки файла с Axios и VueJS](https://site2go.ru/article/indikator-hoda-zagruzki-fajla-s-axios-i-vuejs)
 <!-- BLOG-POST-LIST:END -->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=redev-dev.resev-dev)
