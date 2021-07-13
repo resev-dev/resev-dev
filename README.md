@@ -67,6 +67,11 @@ My name is Nikolay. I'm a self-taught full stack web developer.
 
 ![](https://github-readme-stats.vercel.app/api/pin/?username=resev-dev&repo=js-app-game-block)
 
+# Todoist Stats
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
+
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
