@@ -59,6 +59,10 @@ My name is Nikolay. I'm a self-taught full stack web developer.
 ![npm](https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white)
 
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=resev-dev&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=resev-dev&hide=TeX&layout=compact)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=redev-dev.resev-dev)
+
 <!--
 **resev-dev/resev-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
