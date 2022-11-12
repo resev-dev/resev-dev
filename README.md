@@ -70,10 +70,10 @@ My name is Nikolay. I'm a self-taught full stack web developer.
 # Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  29,278 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 4,931 tasks so far           
-⏳  Longest streak is 275 days
+🏆  29,296 Karma Points           
+🌸  Completed 5 tasks today           
+✅  Completed 4,936 tasks so far           
+⏳  Longest streak is 276 days
 <!-- TODO-IST:END -->
 
 # Blog posts
