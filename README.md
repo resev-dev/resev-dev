@@ -8,7 +8,7 @@ My name is Nikolay. I'm a self-taught full stack web developer.
 
 📫 How to reach me:
 - Telegram: @resViL
-- Email: [kolyha5@yandex.ru](mailto:kolyha5@yandex.ru)
+- Email: [me@resvil.ru](mailto:me@resvil.ru)
 - Instagram: [@reseviml](https://www.instagram.com/reseviml/)
 
 ⚡ Fun fact: I'm a huge fan of Iron Man
