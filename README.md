@@ -61,9 +61,9 @@ My name is Nikolay. I'm a self-taught full stack web developer.
 ![npm](https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=resev-dev&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=resev-dev&hide=TeX&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=resev-dev&repo=js-app-game-block)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=resev-dev&repo=js-app-game-block)
 
 # Todoist Stats
 
