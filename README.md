@@ -76,11 +76,11 @@ My name is Nikolay. I'm a self-taught full stack web developer.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript-фреймворки: какие есть и зачем они нужны](https://site2go.ru/article/javascript-frejmvorki:-kakie-est-i-zachem-oni-nuzhny)
+- [Установка и настройка Vagrant на Windows 11](https://site2go.ru/article/ustanovka-i-nastrojka-vagrant-na-windows-11)
 - [Популярные плагины и пакеты Vue.js](https://site2go.ru/article/populyarnye-plaginy-i-pakety-vue.js)
 - [Современное обучение веб-разработке](https://site2go.ru/article/sovremennoe-obuchenie-veb-razrabotke)
 - [Настройка длительности сессий в PHP](https://site2go.ru/article/nastrojka-dlitelnosti-sessij-v-php)
-- [Как отключить сжатие фотографий в приложении Вконтакте на Android](https://site2go.ru/article/kak-otklyuchit-szhatie-fotografij-v-prilozhenii-vkontakte-na-android)
-- [Польза приема кофе на работе](https://site2go.ru/article/polza-priema-kofe-na-rabote)
 <!-- BLOG-POST-LIST:END -->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=redev-dev.resev-dev)
